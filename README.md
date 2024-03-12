@@ -1,7 +1,9 @@
 <!--
 **AnaAlb1/AnaAlb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--h2 without bottom border-->
 
-<img alt="Bienvenido" src="Banner.png" width='40'/>
+<img alt="Bienvenido" src="Banner.png"/>
+<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
